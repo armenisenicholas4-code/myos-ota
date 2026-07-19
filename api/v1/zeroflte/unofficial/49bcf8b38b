@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1784469930,
-      "filename": "lineage-LumiOS-Developer-Beta-3.1-20260719-UNOFFICIAL-zerofltexx.zip",
-      "id": "601de8cf3b819cdd3cb88b457d8c6d44",
+      "datetime": 1784477199,
+      "filename": "lineage-LumiOS-Developer-Beta-4-20260719-UNOFFICIAL-zerofltexx.zip",
+      "id": "fe2e9eba0bc521a8b368d664921afba0",
       "romtype": "unofficial",
-      "size": 832415546,
-      "url": "https://github.com/armenisenicholas4-code/myos-ota/releases/download/v1.0-beta3.1/lineage-LumiOS-Developer-Beta-3.1-20260719-UNOFFICIAL-zerofltexx.zip",
+      "size": 832580934,
+      "url": "https://github.com/armenisenicholas4-code/myos-ota/releases/download/v1.0-beta4/lineage-LumiOS-Developer-Beta-4-20260719-UNOFFICIAL-zerofltexx.zip",
       "version": "15.1"
     }
   ]
